@@ -13,7 +13,7 @@ export default function Home({ token }) {
     );
     setProducts(product.data);
   };
-  const CodeName = " หูฟัง Gaming รุ่น EGA Type-H6 - Black";
+  const CodeName = " นาฬิกา apple watch series 7";
   const copyText = () => {
     navigator.clipboard.writeText(CodeName);
   };
@@ -41,21 +41,21 @@ export default function Home({ token }) {
         <h3> Product detail </h3>
         <Image
           className={styles.immage}
-          src="/ega.jpg"
+          src="/1.jpg"
           alt="my picture"
           width={200}
           height={200}
         />
         <h3>
           {" "}
-          หูฟัง Gaming รุ่น EGA Type-H6 - Black{" "}
+          นาฬิกา apple watch series 7{" "}
           <button onClick={copyText}> Copy </button>
         </h3>
-        ชื่อแบรนด์ : EGA <br></br>
-        รุ่น : Type-H6 <br></br>
-        สี : Black<br></br>
-        ขนาดสินค้า : 22x17x8 cm <br></br>
-        น้ำหนัก : 0.4 kg <br></br>
+        ชื่อแบรนด์ : apple <br></br>
+        รุ่น : รุ่น GPS + Cellular <br></br>
+        สี : Blue<br></br>
+        ขนาดสินค้า : 45x38x10.7 cm <br></br>
+        น้ำหนัก : 0.1 kg <br></br>
         การรับประกัน : 2 Years Warranty<br></br>
         <br></br>
         <div style={style}>

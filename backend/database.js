@@ -2,8 +2,8 @@ const bcrypt = require('bcrypt')
 
 let users = {
     users: [
-        { id: 1, username: 'warinthon', password: '$2b$10$0AsMSQaUB0AlLnKzgeUOfOE.hWUodtuR4NOU954XLVy2gy3lBWsdO', email: 'wwarodom@gmail.com', ischeck: 'No' },
-        { id: 2, username: 'john', password: '$2b$10$1Bu4tImM/Ms9rtU.8/n/COWpzUAGFB6YlsO5xZqFih1JUxafyFFXa', email: 'john@gmail.com', ischeck: 'No' },
+        { id: 1, username: 'sufian', password: '$2b$10$0AsMSQaUB0AlLnKzgeUOfOE.hWUodtuR4NOU954XLVy2gy3lBWsdO', email: 'wwarodom@gmail.com', ischeck: 'No' },
+        { id: 2, username: 'maseng', password: '$2b$10$1Bu4tImM/Ms9rtU.8/n/COWpzUAGFB6YlsO5xZqFih1JUxafyFFXa', email: 'john@gmail.com', ischeck: 'No' },
     ]
 }
 
@@ -11,7 +11,7 @@ let users = {
 
 let products = {
     products: [
-        { id: 1, name: "K5 Black", numberproduct: 10 }
+        { id: 1, name: "apple watch series 7", numberproduct: 10 }
     ]
 }
 

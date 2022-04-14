@@ -11,7 +11,7 @@ export default function Home() {
         <Navbar />
       </div>
       <div className={styles.h1}>
-        <h1>Gaming-Headphone Shop</h1>
+        <h1>Apple Watch Shop</h1>
       </div>
       <div className={styles.row}>
         <div></div>
@@ -27,9 +27,9 @@ export default function Home() {
             />
             <div className={styles.p}>
               <a href="/k5" className={styles.card}>
-                <p> หูฟัง Gaming รุ่น K5 Blue - Black </p>
+                <p> Apple Watch Series 7 </p>
               </a>
-              <h2>$19.66</h2>
+              <h2>$1,269.15</h2>
             </div>
           </div>
           <br></br>
@@ -45,9 +45,9 @@ export default function Home() {
               />
               <div className={styles.p}>
                 <a href="/k5" className={styles.card}>
-                  <p> หูฟัง Gaming รุ่น K5 Blue - Black </p>
+                  <p> Apple Watch Series 6 </p>
                 </a>
-                <h2>$19.66</h2>
+                <h2>$818.23</h2>
               </div>
             </div>
           {/* </div> */}
@@ -64,9 +64,9 @@ export default function Home() {
             />
             <div className={styles.p}>
               <a href="/ega" className={styles.card}>
-                <p> หูฟัง Gaming รุ่น EGA Type-H6 - Black </p>
+                <p> Apple Watch Series 5 </p>
               </a>
-              <h2>$18</h2>
+              <h2>$624.44</h2>
             </div>
           </div>
           <br></br>
@@ -82,9 +82,9 @@ export default function Home() {
               />
               <div className={styles.p}>
                 <a href="/ega" className={styles.card}>
-                  <p> หูฟัง Gaming รุ่น EGA Type-H6 - Black </p>
+                  <p> Apple Watch Series 4 </p>
                 </a>
-                <h2>$18</h2>
+                <h2>$320.88</h2>
               </div>
             </div>
           {/* </div> */}
@@ -101,9 +101,9 @@ export default function Home() {
             />
             <div className={styles.p}>
               <a href="/signo" className={styles.card}>
-                <p> หูฟัง Gaming รุ่น Signo - Black </p>
+                <p> Apple Watch Series 3 </p>
               </a>
-              <h2>$16</h2>{" "}
+              <h2>$206.15</h2>{" "}
             </div>
           </div>
           <br></br>
@@ -119,9 +119,9 @@ export default function Home() {
               />
               <div className={styles.p}>
                 <a href="/signo" className={styles.card}>
-                  <p> หูฟัง Gaming รุ่น Signo - Black </p>
+                  <p> Apple Watch Series 2 </p>
                 </a>
-                <h2>$16</h2>{" "}
+                <h2>$164.33</h2>{" "}
               </div>
             </div>
           {/* </div> */}
