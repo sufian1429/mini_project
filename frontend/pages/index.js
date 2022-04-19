@@ -20,13 +20,13 @@ export default function Home() {
           <div className={styles.box}>
             <Image
               
-              src="/k5.jpg"
+              src="/Series7.jpg"
               alt="my picture"
               width={200}
               height={200}
             />
             <div className={styles.p}>
-              <a href="/k5" className={styles.card}>
+              <a href="/Series7" className={styles.card}>
                 <p> Apple Watch Series 7 </p>
               </a>
               <h2>$1,269.15</h2>
@@ -38,13 +38,13 @@ export default function Home() {
             <div className={styles.box}>
               <Image
                 
-                src="/k5.jpg"
+                src="/Series6.jpg"
                 alt="my picture"
                 width={200}
                 height={200}
               />
               <div className={styles.p}>
-                <a href="/k5" className={styles.card}>
+                <a href="/Series6" className={styles.card}>
                   <p> Apple Watch Series 6 </p>
                 </a>
                 <h2>$818.23</h2>
@@ -57,13 +57,13 @@ export default function Home() {
           <div className={styles.box}>
             <Image
               
-              src="/ega.jpg"
+              src="/Series5.jpg"
               alt="my picture"
               width={200}
               height={200}
             />
             <div className={styles.p}>
-              <a href="/ega" className={styles.card}>
+              <a href="/Series5" className={styles.card}>
                 <p> Apple Watch Series 5 </p>
               </a>
               <h2>$624.44</h2>
@@ -75,13 +75,13 @@ export default function Home() {
             <div className={styles.box}>
               <Image
                 
-                src="/ega.jpg"
+                src="/Series4.jpg"
                 alt="my picture"
                 width={200}
                 height={200}
               />
               <div className={styles.p}>
-                <a href="/ega" className={styles.card}>
+                <a href="/Series4" className={styles.card}>
                   <p> Apple Watch Series 4 </p>
                 </a>
                 <h2>$320.88</h2>
@@ -94,13 +94,13 @@ export default function Home() {
           <div className={styles.box}>
             <Image
               
-              src="/signo.jpg"
+              src="/Series3.jpg"
               alt="my picture"
               width={200}
               height={200}
             />
             <div className={styles.p}>
-              <a href="/signo" className={styles.card}>
+              <a href="/Series3" className={styles.card}>
                 <p> Apple Watch Series 3 </p>
               </a>
               <h2>$206.15</h2>{" "}
@@ -112,13 +112,13 @@ export default function Home() {
             <div className={styles.box}>
               <Image
                 
-                src="/signo.jpg"
+                src="/Series2.jpg"
                 alt="my picture"
                 width={200}
                 height={200}
               />
               <div className={styles.p}>
-                <a href="/signo" className={styles.card}>
+                <a href="/Series2" className={styles.card}>
                   <p> Apple Watch Series 2 </p>
                 </a>
                 <h2>$164.33</h2>{" "}
