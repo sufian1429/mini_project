@@ -13,7 +13,7 @@ export default function Home({ token }) {
     );
     setProducts(product.data);
   };
-  const CodeName = " นาฬิกา apple watch series 7";
+  const CodeName = "Apple Watch Series 3";
   const copyText = () => {
     navigator.clipboard.writeText(CodeName);
   };
@@ -41,26 +41,26 @@ export default function Home({ token }) {
         <h3> Product detail </h3>
         <Image
           className={styles.immage}
-          src="/1.jpg"
+          src="/Series3.jpg"
           alt="my picture"
-          width={200}
-          height={200}
+          width={300}
+          height={300}
         />
         <h3>
           {" "}
-          นาฬิกา apple watch series 7{" "}
+          Apple Watch Series 3{" "}
           <button onClick={copyText}> Copy </button>
         </h3>
-        ชื่อแบรนด์ : apple <br></br>
-        รุ่น : รุ่น GPS + Cellular <br></br>
-        สี : Blue<br></br>
+        Apple Watch Series 3 <br></br>
+        ชื่อแบรนด์ : Apple <br></br>
+        รุ่น : Series 3 <br></br>
         ขนาดสินค้า : 45x38x10.7 cm <br></br>
         น้ำหนัก : 0.1 kg <br></br>
-        การรับประกัน : 2 Years Warranty<br></br>
+        การรับประกัน : 2 Year <br></br>
         <br></br>
         <div style={style}>
-          <a href="/products" className={styles.card}>
-            <h3> To cart </h3>
+          <a href="/productssigno" className={styles.card}>
+            <h3>To cart</h3>
           </a>
         </div>
       </div>
