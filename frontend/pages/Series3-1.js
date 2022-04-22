@@ -59,7 +59,7 @@ export default function Home({ token }) {
         การรับประกัน : 2 Year <br></br>
         <br></br>
         <div style={style}>
-          <a href="/productssigno" className={styles.card}>
+          <a href="/products_3" className={styles.card}>
             <h3>To cart</h3>
           </a>
         </div>

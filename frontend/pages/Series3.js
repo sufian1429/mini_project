@@ -15,7 +15,7 @@ export default function Home({ token }) {
     setProducts(product.data);
   };
 
-  const paymoney = () => Router.push({ pathname: "/Paymenysuccesssigno" });
+  const paymoney = () => Router.push({ pathname: "/Series3-1" });
 
   return (
     <Layout>

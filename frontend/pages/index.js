@@ -3,6 +3,9 @@ import Layout from "../components/layout";
 import Navbar from "../components/navbar";
 import styles from "../styles/Home.module.css";
 import Image from "next/image";
+const URL = `http://localhost/api/product`
+const URL2 = `http://localhost/api/cart`
+const fetcher = (URL) => axios.get(URL).then(res => res.data)
 
 export default function Home() {
   return (
@@ -11,7 +14,7 @@ export default function Home() {
         <Navbar />
       </div>
       <div className={styles.h1}>
-        <h1>Apple Watch Shop</h1>
+        <h1 className="m-8 text-white text-align: center text-4xl drop-shadow-lg">Apple Watch Shop</h1>
       </div>
       <div className={styles.row}>
         <div></div>
