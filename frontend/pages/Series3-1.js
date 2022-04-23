@@ -13,7 +13,7 @@ export default function Home({ token }) {
     );
     setProducts(product.data);
   };
-  const CodeName = "Apple Watch Series 3";
+  const CodeName = "นาฬิกา apple watch series 3";
   const copyText = () => {
     navigator.clipboard.writeText(CodeName);
   };

@@ -89,7 +89,7 @@ const Products = ({ token }) => {
   };
   const handleClickIndex = () =>
     Router.push({
-      pathname: "/showproducts_Apple-7",
+      pathname: "/Series7",
     });
 
   return (

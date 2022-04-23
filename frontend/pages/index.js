@@ -29,7 +29,7 @@ export default function Home() {
               height={200}
             />
             <div className={styles.p}>
-              <a href="/Series7" className={styles.card}>
+              <a href="/Series7-1" className={styles.card}>
                 <p> Apple Watch Series 7 </p>
               </a>
               <h2>$1,269.15</h2>
@@ -47,7 +47,7 @@ export default function Home() {
                 height={200}
               />
               <div className={styles.p}>
-                <a href="/Series6" className={styles.card}>
+                <a href="/Series6-1" className={styles.card}>
                   <p> Apple Watch Series 6 </p>
                 </a>
                 <h2>$818.23</h2>
@@ -66,7 +66,7 @@ export default function Home() {
               height={200}
             />
             <div className={styles.p}>
-              <a href="/Series5" className={styles.card}>
+              <a href="/Series5-1" className={styles.card}>
                 <p> Apple Watch Series 5 </p>
               </a>
               <h2>$624.44</h2>
@@ -84,7 +84,7 @@ export default function Home() {
                 height={200}
               />
               <div className={styles.p}>
-                <a href="/Series4" className={styles.card}>
+                <a href="/Series4-1" className={styles.card}>
                   <p> Apple Watch Series 4 </p>
                 </a>
                 <h2>$320.88</h2>
@@ -103,7 +103,7 @@ export default function Home() {
               height={200}
             />
             <div className={styles.p}>
-              <a href="/Series3" className={styles.card}>
+              <a href="/Series3-1" className={styles.card}>
                 <p> Apple Watch Series 3 </p>
               </a>
               <h2>$206.15</h2>{" "}
@@ -121,7 +121,7 @@ export default function Home() {
                 height={200}
               />
               <div className={styles.p}>
-                <a href="/Series2" className={styles.card}>
+                <a href="/Series2-1" className={styles.card}>
                   <p> Apple Watch Series 2 </p>
                 </a>
                 <h2>$164.33</h2>{" "}

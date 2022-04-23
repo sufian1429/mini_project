@@ -13,7 +13,7 @@ let users = db.users;
 
 
 let products = {
-  list: [{ id: 1, name: " apple watch series 7 ", numberproduct: 10 }],
+  list: [{ id: 1, name: " apple watch series 7", numberproduct: 10 }],
 };
 
 require("./passport.js");
